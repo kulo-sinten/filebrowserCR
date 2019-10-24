@@ -2,6 +2,8 @@
 
 Convertion of a php file browser web application ( https://tutorialzine.com/2014/09/cute-file-browser-jquery-ajax-php ) to Crystal lang to browse and search files.
 
+![File Browser](https://raw.githubusercontent.com/xtokio/filebrowserCR/master/filebrowser.png)
+
 ## Installation
 
 TODO: Write installation instructions here
