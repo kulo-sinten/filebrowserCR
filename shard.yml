@@ -1,0 +1,13 @@
+name: filebrowserCR
+version: 0.1.0
+
+authors:
+  - Luis Gómez <xtokio@gmail.com>
+
+targets:
+  filebrowserCR:
+    main: src/filebrowserCR.cr
+
+crystal: 0.31.1
+
+license: MIT
