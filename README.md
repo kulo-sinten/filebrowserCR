@@ -6,15 +6,17 @@ Convertion of a php file browser web application ( https://tutorialzine.com/2014
 
 ## Installation
 
-TODO: Write installation instructions here
+You need to place your searchable folder inside the `public` folder and modify the file `filebrowser.json` with the correct values from your personal environment/folder destination.
 
-## Usage
+Compile to run
+```crystal
+crystal src/filebrowserCR.cr
+```
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+Compile to create executable
+```crystal
+crystal build src/filebrowserCR.cr --release
+```
 
 ## Contributing
 
