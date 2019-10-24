@@ -8,6 +8,10 @@ targets:
   filebrowserCR:
     main: src/filebrowserCR.cr
 
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
 crystal: 0.31.1
 
 license: MIT
