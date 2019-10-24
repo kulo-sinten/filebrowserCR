@@ -4,6 +4,9 @@ Convertion of a php file browser web application ( https://tutorialzine.com/2014
 
 ![File Browser](https://raw.githubusercontent.com/xtokio/filebrowserCR/master/filebrowser.png)
 
+Gif example
+![File Browser](https://raw.githubusercontent.com/xtokio/filebrowserCR/master/filebrowser.gif)
+
 ## Installation
 
 You need to place your searchable folder inside the `public` folder and modify the file `filebrowser.json` with the correct values from your personal environment/folder destination.
