@@ -4,7 +4,7 @@ Convertion of a php file browser web application ( https://tutorialzine.com/2014
 
 ![File Browser](https://raw.githubusercontent.com/xtokio/filebrowserCR/master/filebrowser.png)
 
-Gif example
+See it in action
 ![File Browser](https://raw.githubusercontent.com/xtokio/filebrowserCR/master/filebrowser.gif)
 
 ## Installation
